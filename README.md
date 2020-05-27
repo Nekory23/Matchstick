@@ -20,7 +20,7 @@ See the subject for further details !
 
 ========================
 
-1st semester Elementary programming in C unit
+1st semester Elementary programming in C (part II) unit
 
 Grade : C | Mark : 16
 
