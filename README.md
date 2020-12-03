@@ -1,6 +1,5 @@
 # Matchstick
-
-{EPITECH} | First year | Elementary programming in C project
+# {EPITECH} | First year | Elementary programming in C project
 
 This project is based on a very famous game based on matchsticks.
 There is a certain number of matchstick lines.
@@ -20,15 +19,16 @@ See the subject for further details !
 
 ========================
 
-1st semester Elementary programming in C (part II) unit
+## 1st semester Elementary programming in C (part II) unit
 
 Grade : C | Mark : 16
 
-Score : 75.6%
-
-  - Initial display of 4x4 board : 100% --- 3/3
-  - Bad inputs : 50% --- 6/12
-  - Full games : 100% --- 20/20
-  - AI effectiveness : 50% --- 5/10
+| Category                     | Percentage | Tests     | Crash ?     |
+|------------------------------|------------|-----------|-------------|
+| Initial display of 4x4 board | 100%       | 3/3       | x           |
+| Bad inputs                   | 50%        | 6/12      | x           |
+| Full_games                   | 100%       | 20/20     | x           |
+| AI effectiveness             | 50%        | 5/10      | x           |
+| **End scores**               | **75.6%**  | **34/45** | **Yes (1)** |
 
 Beware of -42 Epitech students !!!
